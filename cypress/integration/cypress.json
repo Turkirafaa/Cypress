@@ -1,0 +1,11 @@
+{
+    "integrationFolder": "integration",
+    "reporter": "junit",
+    "reporterOptions": {
+      "toConsole": false,
+      "mochaFile": "/tmp/res-[hash].xml"
+    },
+    "video":false,
+    "pluginsFile": false,
+    "supportFile": false
+  }
