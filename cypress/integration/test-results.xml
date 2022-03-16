@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="Mocha Tests" time="6.633" tests="1" failures="0">
-  <testsuite name="Root Suite" timestamp="2020-05-12T09:29:06" tests="0" file="integration/ne1.laromedel.js" failures="0" time="0">
-  </testsuite>
-  <testsuite name="laromedel" timestamp="2020-05-12T09:29:06" tests="1" failures="0" time="6.633">
-    <testcase name="laromedel open courses for students" time="6.633" classname="open courses for students">
-    </testcase>
-  </testsuite>
-</testsuites>
